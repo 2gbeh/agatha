@@ -4,14 +4,14 @@ import {
   RxCollection,
   RxJsonSchema,
   RxDocument,
-} from "rxdb/plugins/core";
-import { getRxStorageDexie } from "rxdb/plugins/storage-dexie";
+} from 'rxdb/plugins/core';
+import { getRxStorageDexie } from 'rxdb/plugins/storage-dexie';
 
-import { type UserCollection, userCollection } from "./modules/user.module";
+import { type UserCollection, userCollection } from './modules/user.module';
 
 // TODO: create database and collections
-const DB_NAME = "agatha-db";
-const DB_PASSWORD = "$trongp@ssw0rd";
+const DB_NAME = 'aladdin-db';
+const DB_PASSWORD = '$trongp@ssw0rd';
 
 type TDatabaseCollections = {
   users: UserCollection;

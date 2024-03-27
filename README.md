@@ -1,24 +1,27 @@
-# Agatha
+# Aladdin
 
-Microsoft Northwind Database Application w/Angular + RxDB
+Book Sales & Distribution Management Software
 
-[![Angular](https://img.shields.io/badge/angular-17.x-dd0031.svg)](https://vuejs.org/guide/introduction.html)
-[![TypeScript](https://img.shields.io/badge/typescript-5.x-blue.svg)](https://www.typescriptlang.org/docs/)
+[![Angular](https://img.shields.io/badge/Angular-17.x-dd0031.svg)](https://angular.io/tutorial/first-app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/docs/)
+[![RxDB](https://img.shields.io/badge/RxDB-10.x-8d2089.svg)](https://rxdb.info/quickstart.html)
 
-## Clone the project
+## Installation
 
 ```
-$ git clone https://github.com/2gbeh/agatha.git
-$ cd agatha
+$ git clone https://github.com/2gbeh/aladdin.git
+
+$ cd aladdin
+
 $ npm install
+
+$ ng serve --open
 ```
 
 ## Usage
 
-```
-$ ng serve --open
-```
+> Local:   http://localhost:4200/
 
-### Documentation 
+### Documentation
 
-Visit https://docs.yugabyte.com/preview/sample-data/northwind/
+![Screenshot](./social-preview.png)
