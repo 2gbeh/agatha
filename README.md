@@ -6,6 +6,8 @@ Book Sales & Distribution Management Software
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/docs/)
 [![RxDB](https://img.shields.io/badge/RxDB-10.x-8d2089.svg)](https://rxdb.info/quickstart.html)
 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## Installation
 
 ```
